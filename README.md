@@ -80,6 +80,6 @@ gem5-cache-coherence-analysis/
 ├── README.md
 ├── CPRE581_Project_Report.pdf
 ├── scripts/
-│   ├── parse_classic_stats.py
-│   ├── parse_ruby_stats.py
-│   └── run_classic_sweep.sh
+    ├── parse_classic_stats.py
+    ├── parse_ruby_stats.py
+    └── run_classic_sweep.sh
