@@ -83,6 +83,3 @@ gem5-cache-coherence-analysis/
 │   ├── parse_classic_stats.py
 │   ├── parse_ruby_stats.py
 │   └── run_classic_sweep.sh
-│
-└── results/
-    └── graphs/
